@@ -1,5 +1,6 @@
 {
     "name": "Eksamens board",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "arduino-zero": "*"
